@@ -1,0 +1,26 @@
+* {
+    font-family: sans-serif;
+}
+.main {
+    display: flex;
+    flex-direction: column;
+    margin-left: 15px;
+}
+h1 {
+    
+    justify-content: center;
+    text-align: center;
+}
+ul {
+    list-style-type:  none;
+}
+h2 {
+    margin-left: 25px;
+}
+.important {
+    font-weight: 800;
+
+}
+a{
+    color: rgb(21, 87, 173);
+}
